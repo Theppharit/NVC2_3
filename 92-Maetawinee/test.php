@@ -11,7 +11,16 @@
 <link rel="stylesheet" href="style.css">
 
 <body>
-    
+   
+<!-- ส่วนของ Navbar -->
+<nav class="navbar">
+
+<a href="index.php" class="a-navbar">หน้าแรก</a>
+<a href="test.php" class="a-navbar">หน้า test</a>
+
+</nav>
+
+
 <div class="div">
     <h1 class="h1">grace</h1>
 </div>
