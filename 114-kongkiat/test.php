@@ -6,25 +6,27 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>18+</title>
+    <title>haha</title>
 </head>
 <link rel="stylesheet" href="style.css">
 
 <body>
-
+    
+<a href="index.php" class="a-navbar">หน้าแรก</a>
+<a href="test.php" class="a-navbar">หน้า test</a>
 <div class="div">
-    <h1 class="h1">ez ez ez</h1>
+    <h1 class="h1">arai</h1>
 </div>
 
 
-<h2 class="h2">home</h2>
+<h2 class="h2">gogo</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
-<p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae similique fugit ea deserunt ab nihil, quos iusto veniam a culpa iure sed! Est fuga placeat ut? Nostrum ut velit sit!
+p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae similique fugit ea deserunt ab nihil, quos iusto veniam a culpa iure sed! Est fuga placeat ut? Nostrum ut velit sit!
 Ab soluta similique consectetur reprehenderit ipsum eaque illum odio tenetur, eligendi libero asperiores magnam voluptatibus ex officiis voluptas. Molestias assumenda illum consectetur necessitatibus quam eos, magni fugiat obcaecati aspernatur earum?
 Quasi laudantium dolore consequuntur vero nihil necessitatibus, exercitationem, quae molestias incidunt corrupti ea officia recusandae vel ab assumenda laboriosam nam asperiores commodi sint quibusdam! Tempore consequatur animi vero adipisci accusantium.
-Tempore vero accusantium quo consequuntur, veritatis iste minima voluptate cum, ipsum laborum inventore commodi aspernatur officia quaerat, labore neque consequatur nihil voluptates. Expedita et mollitia ullam earum repudiandae dolores quia.
+Tempore vero accusantium quo cons<equuntur, veritatis iste minima voluptate cum, ipsum laborum inventore commodi aspernatur officia quaerat, labore neque consequatur nihil voluptates. Expedita et mollitia ullam earum repudiandae dolores quia.
 Unde nobis libero, ratione neque sit impedit illum accusamus eius facilis nemo minus odio placeat reprehenderit id hic temporibus perferendis quo molestias ducimus, deleniti quos. Maiores ab qui illo sequi!
 Architecto, laboriosam eaque saepe sequi molestias quasi ipsam, autem, beatae a repellendus nulla aliquid. Nostrum id quasi aut hic aliquam fugit, libero minus assumenda cupiditate sequi? Vero voluptas ad veniam.
 Rerum temporibus commodi soluta ratione. Autem rerum ea consequatur hic voluptates ipsa, minus obcaecati labore optio nisi impedit odit iure praesentium pariatur perspiciatis voluptate quidem illo sequi? Officiis, enim repellendus.
