@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- แทรก css -->
-    <link rel="stylesheet" href="style.css">
-
-    <!-- ชื่อเว็บไซต์ -->
-    <title>gold digger</title>
-</head>
+<?php include('include/head.php') ?>
 
 <body>
     
-<!-- NavBar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-<a href="youtube.php" class="a-navbar">youtube</a>
-<a href="map.php" class="a-navbar">map</a>
-
-</nav>
+<?php include('include/navbar.php') ?>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
@@ -31,6 +10,8 @@
 <div class="div">
     <h1 class="h1">map</h1>
 </div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1854785.8667145208!2d-40.114079292143806!3d77.25983063714945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sth!2sth!4v1765160867850!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </main>
 

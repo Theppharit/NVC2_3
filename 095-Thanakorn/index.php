@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- แทรก css -->
-    <link rel="stylesheet" href="style.css">
-
-    <!-- ชื่อเว็บไซต์ -->
-    <title>gold digger</title>
-</head>
+<?php include('include/head.php') ?>
 
 <body>
     
-<!-- NavBar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-<a href="youtube.php" class="a-navbar">youtube</a>
-<a href="map.php" class="a-navbar">mapt</a>
-
-</nav>
+<?php include('include/navbar.php') ?>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
