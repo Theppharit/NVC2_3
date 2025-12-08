@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+
 <head>
-   
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello</title>
+    
+    <!-- แทรก css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- ชื่อเว็บไซต์ -->
+    <title>seasasalat</title>
 </head>
-<link rel="stylesheet" href="style.css">
+
+
 
 <body>
-   
+    
 <!-- ส่วนของ Navbar -->
 <nav class="navbar">
 
@@ -22,18 +28,21 @@
 
 </nav>
 
+<!-- ส่วนของเนื้อหา -->
+<main class="main">
 
 <div class="div">
-    <h1 class="h1">grace</h1>
+    <h1 class="h1">youtube</h1>
 </div>
 
+</main>
 
-<h2 class="h2">DekInw</h2>
-
-<img src="./img/1.jpg" alt="" class="">
-
-<p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis neque ducimus saepe sequi, fuga tenetur mollitia nesciunt expedita eum voluptatibus enim debitis esse nam ut cumque beatae distinctio vel odio.</p>
+<!-- ส่วนของ footer -->
+<footer class="footer">
 
 
 
-</html>
+</footer>
+
+</body>
+
