@@ -33,7 +33,7 @@
 <main class="main">
 
 <div class="div">
-    <h1 class="h1">TimeThai</h1>
+    <h1 class="h1">Map</h1>
 </div>
 
 

@@ -6,36 +6,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- แทรกcss -->
+
+    <!-- แทรก css -->
      <link rel="stylesheet" href="style.css">
 
-    <!-- ชื้อเว็บไซต์ -->
-    <title>HaHaHa</title>
+    <!-- ชื่อเว็บไซต์ -->
+    <title>Hello World</title>
 </head>
 
 
 
 <body>
 
-<!-- ส่วนของNavbar -->
+<!-- ส่วนของ Navbar -->
 <nav class="navbar">
 
 <a href="index.php" class="a-navbar">หน้าแรก</a>
 <a href="test.php" class="a-navbar">หน้า test</a>
-<a href="youtube.php" class="a-navbar">Youtube</a>
-<a href="map.php" class="a-navbar">Map</a>
+<a href="youtube.php" class="a-navbar">youtube</a>
+<a href="map.php" class="a-navbar">map</a>
 
-
-</Nav>
+</nav>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
 
 <div class="div">
-    <h1 class="h1">TimeThai</h1>
+    <h1 class="h1">Youtube</h1>
 </div>
-
 
 </main>
 
