@@ -9,16 +9,7 @@
 
 <body>
 
-<!-- ส่วนของNavbar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-<a href="youtube.php" class="a-navbar">Youtube</a>
-<a href="map.php" class="a-navbar">Map</a>
-
-
-</Nav>
+<?php include('include/navbar.php')?>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
@@ -27,6 +18,7 @@
     <h1 class="h1">Youtube</h1>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JxjI6Gw8w78?si=klye1TAksIDwiI9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </main>
 
