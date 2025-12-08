@@ -15,12 +15,12 @@
 
 
 <div class="div">
-    <h1 class="h1">Timethai</h1>
+    <h1 class="h1">K time wa</h1>
 </div>
 
 
 
-<h2 class="h2">dekinw</h2>
+<h2 class="h2">waaaaaaaaaaa</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 

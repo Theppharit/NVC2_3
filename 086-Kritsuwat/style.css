@@ -21,3 +21,10 @@ img {
     text-align: center;
 }
 
+.iframe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
