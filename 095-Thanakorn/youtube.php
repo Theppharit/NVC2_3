@@ -1,10 +1,21 @@
-<?php include('include/head.php') ?>
+<!DOCTYPE html>
+<html lang="en">
 
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- แทรก css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- ชื่อเว็บไซต์ -->
+    <title>gold digger</title>
+</head>
 
 <body>
-
-<!-- ส่วนของ Navbar -->
+    
+<!-- NavBar -->
 <nav class="navbar">
 
 <a href="index.php" class="a-navbar">หน้าแรก</a>
@@ -18,7 +29,7 @@
 <main class="main">
 
 <div class="div">
-    <h1 class="h1">map</h1>
+    <h1 class="h1">youtube</h1>
 </div>
 
 </main>
