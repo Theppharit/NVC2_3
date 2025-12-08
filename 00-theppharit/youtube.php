@@ -13,6 +13,8 @@
     <h1 class="h1">Youtube</h1>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6J373vtjn6Y?si=WKBsQ2lsJz8i-VVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </main>
 
 <!-- ส่วนของ footer -->
