@@ -1,4 +1,4 @@
-<!-- ส่วนของ Navbar -->
+<!-- NavBar -->
 <nav class="navbar">
 
 <a href="index.php" class="a-navbar">หน้าแรก</a>
