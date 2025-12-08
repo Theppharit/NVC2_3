@@ -4,16 +4,7 @@
 
 <body>
 
-<!-- ส่วนของNavbar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-<a href="youtube.php" class="a-navbar">Youtube</a>
-<a href="map.php" class="a-navbar">Map</a>
-
-
-</Nav>
+<?php include('include/navbar.php')?>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
