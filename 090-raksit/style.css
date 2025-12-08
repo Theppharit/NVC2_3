@@ -6,17 +6,25 @@ img {
 .div {
     width: 100%;
     height: 300px;
-    background-color: #419197;
+    background-color: #6fca25;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .h1  {
-    color: #28d375;
+    color: #cd28d3;
 }
 
 .h2 {
-    color: #7e20d6;
+    color: #4d0a33;
     text-align: center;
+}
+
+.iframe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
 }
