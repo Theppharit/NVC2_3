@@ -32,14 +32,14 @@ img {
     padding: 0 2rem;
 }
 
-.navbar {
+.a-navbar {
     color: rgb(202, 35, 207);
     text-decoration: none;
     font-weight: bold;
     margin: 0 1rem;
 }
 
-.navbar:hover {
+.a-navbar:hover {
     color: antiquewhite;
 }
 
