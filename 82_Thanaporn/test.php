@@ -1,26 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<?php include('include/head.php') ?>
 
 
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ez</title>
-</head>
-<link rel="stylesheet" href="style.css">
 
 <body>
-<!-- ส่วนของ Navbar -->
-<nav class="navbar">
 
-<a href="index.php" class="a-navber">หน้้าแรก</a>
-<a href="test.php" class="a-navber">หน้า test</a>
 
-</nav>
+<?php include('include/navbar.php') ?>
+
+
+
  <div class="div">
-     <h1 class="">Noey</h1>
+     <h1 class="h1">Noey</h1>
 </div>
+
 
 
 <h2 class="h2">Thanaporn</h2>
@@ -42,6 +34,11 @@ Ratione ad dolorem itaque cumque labore aliquid, excepturi maiores officiis eius
 Earum cum eaque, laudantium reprehenderit maxime vel, accusamus quibusdam esse perferendis, dolorum veritatis vero. Non aperiam veniam praesentium quae rem deleniti ea dolore. Quos ad tempore voluptates laudantium quaerat et!
 Consequuntur cupiditate repellat culpa ipsum ex vitae. Consequatur at temporibus quaerat atque reiciendis debitis vero asperiores fugit? Quos sapiente ipsum delectus at, a veniam labore natus accusamus, error corporis exercitationem?
 Nostrum est eius deserunt dolorum adipisci cupiditate nemo distinctio eaque, amet ratione hic in temporibus exercitationem saepe quidem, quia nihil commodi veritatis molestias ducimus quam officiis nisi. Quaerat, nisi recusandae?</p>
+</p>
+
+
+
+</body>
 
 
 
