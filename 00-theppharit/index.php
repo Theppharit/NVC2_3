@@ -6,7 +6,6 @@
 
 <?php include('include/navbar.php') ?>
 
-</nav>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">
