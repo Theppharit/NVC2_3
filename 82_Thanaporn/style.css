@@ -13,10 +13,17 @@ img {
 }
 
 .h1  {
-    color: #28d375;
+color: #28d375;
 }
 
 .h2 {
-    color: #f0199d;
-    text-align: center;
+color: #f0199d;
+text-align: center;
+}
+.iframe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
 }

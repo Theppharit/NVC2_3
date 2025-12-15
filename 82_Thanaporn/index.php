@@ -1,36 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- แทรก css -->
-    <link rel="stylesheet" href="style.css">
-    
-    <!-- ชื่อเว็บไซต์ -->
-    <title>Thanaporn</title>
-</head>
-
-
+<?php include('include/head.php') ?>
 
 <body>
     
-<!-- ส่วนของ Navbar -->
-<nav class="navbar">
+<?php include('include/navbar.php') ?>
 
-<a href="index.php" class="a-navber">หน้้าแรก</a>
-<a href="test.php" class="a-navber">หน้า test</a>
-
-</nav>
-
-<!-- ส่วนของเนื้อหา-->
+<!-- ส่วนของเนื้อหา -->
 <main class="main">
 
- <div class="div">
-     <h1 class="">Noey</h1>
+<div class="div">
+    <h1 class="h1">Noey</h1>
 </div>
 
 </main>
