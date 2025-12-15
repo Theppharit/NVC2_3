@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -6,10 +12,35 @@ img {
 .div {
     width: 100%;
     height: 300px;
-    background-color: #34b8c2;
+    background-color: #b2e259;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+    background-color: #64bee7;
+    position: fixed;
+    top: 0;
+    padding: 0 2rem;
+}
+
+.a-navbar {
+    color: rgb(202, 35, 207);
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 1rem;
+}
+
+.a-navbar:hover {
+    color: antiquewhite;
 }
 
 .h1  {
