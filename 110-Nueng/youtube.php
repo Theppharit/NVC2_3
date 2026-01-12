@@ -1,10 +1,9 @@
-<?php include('include/head.php') ?>
-
+<?php include ('include/head.php'); ?>
 
 
 <body>
-    
-<?php include('include/navbar.php') ?>
+
+<?php include ('include/navbear.php'); ?>
 
 <!-- ส่วนของเนื้อหา -->
 <main class="main">

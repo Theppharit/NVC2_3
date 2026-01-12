@@ -1,9 +1,9 @@
-<?php include 'include/head.php'; ?>
+<?php include ('include/head.php'); ?>
 
 
 <body>
-    
-<?php include 'include/navbear.php'; ?>
+
+<?php include ('include/navbear.php'); ?>
 
 <!-- ส่วนของเนื่อหา -->
 <main class="main">
