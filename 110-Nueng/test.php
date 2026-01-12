@@ -1,25 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include 'include/head.php'; ?>
 
-
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
+<link rel="stylesheet" href="style.css">
 
 <body>
 
-<!-- ส่วนของ Navbar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navber">หนเ้าแรก</a>
-<a href="test.php" class="a-navber">หน้า test</a>
-
-</nav>
+<?php include 'include/navbear.php'; ?>
 
 <div class="div">
     <h1 class="h1">Hello.</h1>
@@ -37,7 +22,7 @@ Maxime eos, laboriosam maiores, laborum soluta ipsa quae sequi labore velit nihi
 Architecto quo ipsum laudantium doloribus quis provident optio sunt atque? Corporis harum pariatur nemo placeat quam accusamus quod! Minus odit in at alias ab, tempora natus deleniti mollitia id molestiae.
 Vitae exercitationem ullam aperiam saepe, commodi dolorum. Reiciendis facilis odio hic vitae sequi ipsa iste consectetur quam, aliquam, illo illum laudantium odit non accusantium neque animi rem quis quia asperiores.
 Inventore, eum recusandae harum repellat quas officiis sequi sit ratione asperiores, animi perspiciatis vitae a cumque illo repudiandae dolorum vel? Pariatur, facilis provident? Iste, sed aliquid! Beatae quaerat aspernatur ab.
-Quas mollitia aspernatur laboriosam quia laborum, natus blanditiis voluptatibus asperiores totam excepturi ut ratione non culpa voluptatum, delectus sint distinctio vitae magni qui incidunt commodi dolores ipsa consectetur. Nihil, odit.
+
 Accusamus magni facere dolorum unde. Voluptates deleniti, vero natus cumque, nisi expedita quam corrupti sit reprehenderit totam dolores, error architecto recusandae maiores harum distinctio doloremque hic libero quis aut voluptatibus.
 Ratione libero repellat molestias. Quod sapiente aperiam fuga ipsa! Esse perferendis vitae accusantium voluptate quis quae aspernatur tenetur, enim quam non quasi id. Velit quae nisi exercitationem qui, eius earum.
 Rem in dicta at perspiciatis nulla autem amet, error harum modi ipsum deleniti praesentium sequi, excepturi, laboriosam aperiam! Nulla qui temporibus repellendus dolor id placeat commodi quos officiis minus suscipit.
