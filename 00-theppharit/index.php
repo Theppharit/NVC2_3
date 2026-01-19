@@ -16,12 +16,8 @@
 
 </main>
 
-<!-- ส่วนของ footer -->
-<footer class="footer">
 
-
-
-</footer>
+<?php include('include/footer.php') ?>
 
 </body>
 
