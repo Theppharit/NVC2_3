@@ -9,7 +9,7 @@
     </div>
 
 
-     <div class="colum-footer"></div>
+     <div class="colum-footer">
           <p class="">Hello</p>
           <p class="">Hello</p>
           <p class="">Hello</p>
@@ -17,7 +17,7 @@
     </div>
 
 
-     <div class="colum-footer"></div>
+     <div class="colum-footer">
           <p class="">Hello</p>
           <p class="">Hello</p>
           <p class="">Hello</p>
