@@ -1,15 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- ส่วนของ footer -->
+<footer class="footer">
+
+    <div class="colum-footer">
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+    </div>
+      <div class="colum-footer">
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+    </div>
+
+    <div class="colum-footer">
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+        <p class="">Arai</p>
+    </div>
 
 
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- แทรกcss -->
-     <link rel="stylesheet" href="style.css">
-
-    <!-- ชื้อเว็บไซต์ -->
-    <title>HaHaHa</title>
-</head>
+    <div class="div-footer">
+        <h1 class="">Arai</h1>
+    </div>
+</footer>

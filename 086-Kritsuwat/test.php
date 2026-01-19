@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-
 <?php include('include/head.php')?>
-
 
 
 <body>
@@ -42,7 +36,7 @@ Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati qu
 Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.
 </p>
 
-
+<?php include('include/footer.php')?>
 
 </body>
 
