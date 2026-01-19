@@ -26,5 +26,7 @@
 
 </footer>
 
+<?php include('include/footer.php') ?>
+
 </body>
 
