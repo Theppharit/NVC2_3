@@ -18,6 +18,9 @@
 
 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis neque ducimus saepe sequi, fuga tenetur mollitia nesciunt expedita eum voluptatibus enim debitis esse nam ut cumque beatae distinctio vel odio.</p>
 
-
-
 </html>
+
+
+<?php include('include/footer.php') ?>
+
+</body>
