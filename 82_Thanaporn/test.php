@@ -1,18 +1,15 @@
 <?php include('include/head.php') ?>
 
-
+<link rel="stylesheet" href="style.css">
 
 <body>
 
-
 <?php include('include/navbar.php') ?>
-
 
 
  <div class="div">
      <h1 class="h1">Noey</h1>
 </div>
-
 
 
 <h2 class="h2">Thanaporn</h2>
@@ -36,10 +33,8 @@ Consequuntur cupiditate repellat culpa ipsum ex vitae. Consequatur at temporibus
 Nostrum est eius deserunt dolorum adipisci cupiditate nemo distinctio eaque, amet ratione hic in temporibus exercitationem saepe quidem, quia nihil commodi veritatis molestias ducimus quam officiis nisi. Quaerat, nisi recusandae?</p>
 </p>
 
-
-
-</body>
-
-
-
 </html>
+
+<?php include('include/navbar.php') ?>
+
+<body>
