@@ -39,6 +39,8 @@ Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est re
 
 
 
+<?php include('include/footer.php') ?>
+
 </body>
 
 
