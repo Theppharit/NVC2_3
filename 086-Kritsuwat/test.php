@@ -14,6 +14,9 @@
 
 
 
+
+<main class="test"></main>
+
 <h2 class="h2">dekinw</h2>
 
 <img src="./img/1.jpg" alt="" class="">
