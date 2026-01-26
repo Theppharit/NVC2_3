@@ -49,8 +49,24 @@ img {
     text-align: center;
 }
 
+.test {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5rem;
+    gap: 3rem;
+}
+
+.img-test {
+    width: 700px;
+    height: auto;
+}
+
 .iframe {
     width: 100%;
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,7 +87,7 @@ grid-row: 2fr 1fr;
     justify-content: center;
     align-items: center;
     height: 250px;
-border: #ad2897 2px solid;
+border: #357e59 2px solid;
 }
 
 .div-footer {

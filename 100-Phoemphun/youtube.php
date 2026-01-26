@@ -1,5 +1,7 @@
 <?php include('include/head.php') ?>
 
+
+
 <body>
     
 <?php include('include/navbar.php') ?>
@@ -24,8 +26,6 @@
 
 </footer>
 
+<?php include('include/footer.php') ?>
+
 </body>
-
-
-
-</html>

@@ -1,17 +1,21 @@
 <?php include('include/head.php') ?>
 
 <link rel="stylesheet" href="style.css">
+
 <body>
 
 <?php include('include/navbar.php') ?>
 
-    <div class="div">
+
+<div class="div">
     <h1 class="h1">helloWorld!</h1>
 </div>
 
+<main class="test"></main>
+
 <h2 class="h2">world heello</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas sint quam, alias laudantium ut harum itaque voluptatibus animi reprehenderit odio aperiam exercitationem, minus voluptatum culpa incidunt quos. Facere, accusantium eveniet?
 Laudantium nesciunt molestiae atque iure? Esse quibusdam explicabo nisi, iusto non, praesentium quod vero sint exercitationem aliquid eligendi perspiciatis qui eveniet ad unde cupiditate dolor dolorum magni commodi eius obcaecati.
@@ -28,8 +32,10 @@ Ea natus repudiandae praesentium aspernatur autem et nam doloremque, voluptatibu
 Ullam dignissimos cum similique dicta harum atque ea distinctio quam, accusamus quasi, alias, voluptas aliquid earum ipsa fuga nobis? Dignissimos quibusdam laboriosam enim, dolor corporis omnis fugiat ipsum quo deleniti?
 Labore culpa omnis nihil ea optio esse qui doloremque earum animi dolore veritatis rem praesentium mollitia eveniet molestiae maxime ipsa, libero illo autem obcaecati! Sapiente commodi dolores et maiores iste.
 Soluta iusto autem minus aliquid amet maxime deleniti possimus quas iste. Repudiandae harum maiores, doloremque qui eum veritatis sit delectus sint atque minima culpa a! Fugiat doloribus cupiditate natus repellat!</p>
-</body>
-
-
 
 </html>
+
+
+<?php include('include/footer.php') ?>
+
+</body>

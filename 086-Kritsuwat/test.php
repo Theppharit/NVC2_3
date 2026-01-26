@@ -14,9 +14,12 @@
 
 
 
+
+<main class="test"></main>
+
 <h2 class="h2">dekinw</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem possimus vero unde officia magnam odio nam sit, repellat, atque est consectetur explicabo assumenda iure fuga deleniti aperiam animi ipsam facere.
