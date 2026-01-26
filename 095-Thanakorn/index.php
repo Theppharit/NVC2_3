@@ -1,5 +1,7 @@
 <?php include('include/head.php') ?>
 
+
+
 <body>
     
 <?php include('include/navbar.php') ?>
@@ -8,22 +10,12 @@
 <main class="main">
 
 <div class="div">
-    <h1 class="h1">pls speed i need this.</h1>
+    <h1 class="h1">pls speed i need this</h1>
 </div>
 
 </main>
 
-
-
-
-
-
 <?php include('include/footer.php') ?>
-
-
 
 </body>
 
-
-
-</html>

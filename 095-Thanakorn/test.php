@@ -1,14 +1,15 @@
 <?php include('include/head.php') ?>
 
 <link rel="stylesheet" href="style.css">
+
 <body>
+    
 <?php include('include/navbar.php') ?>
 
 
 <div class="div">
     <h1 class="h1">pls speed i need this.</h1>
 </div>
-
 
 <h2 class="h2">my mom is kinda homeless</h2>
 
@@ -30,8 +31,9 @@ Doloremque, asperiores repellat reprehenderit nesciunt laudantium adipisci place
 Quam placeat dolor magni tenetur nesciunt ad assumenda eius laborum natus, deleniti optio enim est veniam possimus a veritatis facilis praesentium tempore at! Ipsam dicta sint ducimus omnis, expedita vel.
 Voluptate perferendis impedit nihil officia et, repellendus obcaecati totam distinctio deserunt quod saepe similique quis ad nemo architecto? Porro rerum dignissimos consectetur eligendi. Itaque blanditiis fugit officia quaerat perferendis magnam.</p>
 
-</body>
+</html>
+
 
 <?php include('include/footer.php') ?>
 
-</html>
+</body>

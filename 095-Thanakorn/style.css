@@ -12,7 +12,7 @@ img {
 .div {
     width: 100%;
     height: 300px;
-    background-color: #ed7dfc;
+    background-color: #b2e259;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,9 +24,9 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 0 4px 8px rgb(255, 108, 250);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     z-index: 1000;
-    background-color: #e779ff;
+    background-color: #56e9c9;
     position: fixed;
     top: 0;
     padding: 0 2rem;
@@ -40,15 +40,15 @@ img {
 }
 
 .a-navbar:hover {
-    color: rgb(255, 0, 225);
+    color: antiquewhite;
 }
 
 .h1  {
-    color: #ff00d9;
+    color: #28d375;
 }
 
 .h2 {
-    color: #f0199d;
+    color: #d52793;
     text-align: center;
 }
 
@@ -73,14 +73,14 @@ img {
     justify-content: center;
     align-items: center;
     height: 250px;
-    border: #ff5af7 2px solid;
+    border: #eba816 2px solid;
 }
 
 .div-footer {
     height: 100px;
     grid-column-start: 1;
     grid-column-end: 4;
-    background-color: #e438ff;
+    background-color: #64bee7;
     display: flex;
     justify-content: center;
     align-items: center;
