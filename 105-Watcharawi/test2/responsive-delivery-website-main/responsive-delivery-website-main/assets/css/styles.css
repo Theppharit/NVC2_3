@@ -145,7 +145,7 @@ img {
   margin-bottom: 2rem;
 }
 
-.section__subtitle {
+.section__subtitle { 
   font-size: var(--normal-font-size);
   color: var(--first-color);
   margin-bottom: .25rem;
