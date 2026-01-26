@@ -2,8 +2,8 @@
 
 <link rel="stylesheet" href="style.css">
 <body>
-
 <?php include('include/navbar.php') ?>
+
 
 <div class="div">
     <h1 class="h1">pls speed i need this.</h1>
@@ -32,5 +32,6 @@ Voluptate perferendis impedit nihil officia et, repellendus obcaecati totam dist
 
 </body>
 
+<?php include('include/footer.php') ?>
 
 </html>
