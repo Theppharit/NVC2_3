@@ -50,16 +50,17 @@ img {
 }
 
 .test {
-    weight: 80%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
     padding: 5rem;
-    border-image: auto; 
+    gap: 3rem;
 }
 
 .img-test {
-    width: 700;
+    width: 700px;
     height: auto;
 }
 
