@@ -58,3 +58,23 @@ img {
     align-items: center;
     margin-top: 50px;
 }
+
+
+.footer {
+margin-top: 3rem;
+width: 100%;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+}
+
+ .colum-footer {
+    height: 250px;
+border:#ffc8f9 2px solid;
+ }
+
+.div-footer {
+    height: 100px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: #ffc8f9;
+}
