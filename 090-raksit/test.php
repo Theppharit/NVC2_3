@@ -13,7 +13,7 @@
     <h1 class="h1">K time wa</h1>
 </div>
 
-
+<main class="test"></main>
 
 <h2 class="h2">waaaaaaaaaaa</h2>
 
