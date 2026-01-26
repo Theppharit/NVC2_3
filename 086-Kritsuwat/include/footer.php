@@ -2,23 +2,14 @@
 <footer class="footer">
 
     <div class="colum-footer">
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
+        <p class="">การประชุมคณะกรรมการดำเนินงาน การประเมินคุณธรรมเเละความการโปร่งใสการดำเนินงาน สำหรับสถานศึกษาอาชีวศึกษา (Integrity and Transparency Assessment : ITA)
     </div>
       <div class="colum-footer">
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
+        <p class="">โครงการส่งเสริมคุณธรรม จริยธรรม และจรรยาบรรณวิชาชีพ โดยร่วมปฏิบัติตนเป็นจิตอาสาทำความสะอาดวัด รวมทั้งบริการประชาชนที่มาปฏิบัติธรรมในงานทำบุญกฐินสามัคคี วัดป่าทรัพย์ทวีธรรมาราม พร้อมทั้งได้จัดตั้งโรงทานผัดหมี่โคราช โดยครัวอาชีวะโคราช</p>
     </div>
 
     <div class="colum-footer">
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
-        <p class="">Arai</p>
+        <p class="">การประชุมขับเคลื่อนโครงการฝึกปฏิบัติงานทางเทคนิค สำหรับผู้ฝึกปฏิบัติงานทางเทคนิคไทยในประเทศญี่ปุ่น โดยผ่านองค์กร IM JAPAN จังหวัดนครราชสีมา</p>
     </div>
 
 
