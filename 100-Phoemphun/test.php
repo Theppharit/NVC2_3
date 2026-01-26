@@ -11,9 +11,11 @@
     <h1 class="h1">helloWorld!</h1>
 </div>
 
+<main class="test"></main>
+
 <h2 class="h2">world heello</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas sint quam, alias laudantium ut harum itaque voluptatibus animi reprehenderit odio aperiam exercitationem, minus voluptatum culpa incidunt quos. Facere, accusantium eveniet?
 Laudantium nesciunt molestiae atque iure? Esse quibusdam explicabo nisi, iusto non, praesentium quod vero sint exercitationem aliquid eligendi perspiciatis qui eveniet ad unde cupiditate dolor dolorum magni commodi eius obcaecati.

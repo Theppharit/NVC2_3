@@ -52,8 +52,24 @@ img {
     text-align: center;
 }
 
+.test {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5rem;
+    gap: 3rem;
+}
+
+.img-test {
+    width: 700px;
+    height: auto;
+}
+
 .iframe {
     width: 100%;
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -85,5 +101,3 @@ img {
     justify-content: center;
     align-items: center;
 }
-
-
