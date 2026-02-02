@@ -17,3 +17,9 @@
         <h1 class="">Grace</h1>
     </div>
 </footer>
+
+ <!--=============== SCROLLREVEAL ===============-->
+  <script src="assets/js/scrollreveal.min.js"></script>
+  
+  <!--=============== MAIN JS ===============-->
+  <script src="assets/js/main.js"></script>
