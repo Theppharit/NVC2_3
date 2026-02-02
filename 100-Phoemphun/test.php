@@ -1,8 +1,8 @@
 <?php include('include/head.php') ?>
 
-<link rel="stylesheet" href="style.css">
 
 <body>
+ 
 
 <?php include('include/navbar.php') ?>
 
@@ -32,10 +32,14 @@ Ea natus repudiandae praesentium aspernatur autem et nam doloremque, voluptatibu
 Ullam dignissimos cum similique dicta harum atque ea distinctio quam, accusamus quasi, alias, voluptas aliquid earum ipsa fuga nobis? Dignissimos quibusdam laboriosam enim, dolor corporis omnis fugiat ipsum quo deleniti?
 Labore culpa omnis nihil ea optio esse qui doloremque earum animi dolore veritatis rem praesentium mollitia eveniet molestiae maxime ipsa, libero illo autem obcaecati! Sapiente commodi dolores et maiores iste.
 Soluta iusto autem minus aliquid amet maxime deleniti possimus quas iste. Repudiandae harum maiores, doloremque qui eum veritatis sit delectus sint atque minima culpa a! Fugiat doloribus cupiditate natus repellat!</p>
+</p>
 
-</html>
+
 
 
 <?php include('include/footer.php') ?>
 
 </body>
+
+
+</html>
