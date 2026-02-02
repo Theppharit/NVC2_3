@@ -8,12 +8,11 @@
 
 
 <div class="div">
-    <h1 class="h1">helloWorld!</h1>
+    <h1 class="h1">AU TO</h1>
 </div>
+<main class="test">
 
-<main class="test"></main>
-
-<h2 class="h2">world heello</h2>
+<h2 class="h2">AU TO</h2>
 
 <img src="./img/1.jpg" alt="" class="img-test">
 
@@ -33,7 +32,7 @@ Ullam dignissimos cum similique dicta harum atque ea distinctio quam, accusamus 
 Labore culpa omnis nihil ea optio esse qui doloremque earum animi dolore veritatis rem praesentium mollitia eveniet molestiae maxime ipsa, libero illo autem obcaecati! Sapiente commodi dolores et maiores iste.
 Soluta iusto autem minus aliquid amet maxime deleniti possimus quas iste. Repudiandae harum maiores, doloremque qui eum veritatis sit delectus sint atque minima culpa a! Fugiat doloribus cupiditate natus repellat!</p>
 </p>
-
+</main>
 
 
 

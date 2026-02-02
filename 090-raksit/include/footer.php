@@ -17,3 +17,9 @@
         <h1 class="">WaWa</h1>
     </div>
 </footer>
+
+  <!--=============== SCROLLREVEAL ===============-->
+  <script src="scrollreveal.min.js"></script>
+
+  <!--=============== MAIN JS ===============-->
+  <script src="main.js"></script>

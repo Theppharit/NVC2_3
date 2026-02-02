@@ -10,7 +10,7 @@
 <main class="main">
 
 <div class="div">
-    <h1 class="h1">Auto</h1>
+    <h1 class="h1">AU TO</h1>
 </div>
 
 </main>

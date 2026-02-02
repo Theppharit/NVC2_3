@@ -24,23 +24,23 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px rgba(119, 117, 124, 0.575);
     z-index: 1000;
-    background-color: hsl(241, 100%, 48%);
+    background-color: hsl(357, 74%, 44%);
     position: fixed;
     top: 0;
-    padding: 0 2rem;
+    padding: 0 1rem;
 }
 
 .a-navbar {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
-    margin: 0 1rem;
+    margin: 0 2rem;
 }
 
 .a-navbar:hover {
-    color: antiquewhite;
+    color: #000000;
 }
 
 .h1  {
@@ -48,7 +48,7 @@ img {
 }
 
 .h2 {
-    color: #d52793;
+    color: #000000;
     text-align: center;
 }
 
@@ -62,9 +62,11 @@ img {
     gap: 3rem;
 }
 
-.img-test {
+.img-test{
     width: 700px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .iframe {
@@ -90,14 +92,13 @@ img {
     justify-content: center;
     align-items: center;
     height: 250px;
-    border: #eba816 2px solid;
 }
 
 .div-footer {
     height: 100px;
     grid-column-start: 1;
     grid-column-end: 4;
-    background-color: #2f00ff;
+    background-color: #ff0000;
     display: flex;
     justify-content: center;
     align-items: center;

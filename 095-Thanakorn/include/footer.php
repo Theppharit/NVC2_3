@@ -17,3 +17,14 @@
         <h1 class="">Goo Goo Ga Ga Ga </h1>
     </div>
 </footer>
+
+
+
+
+
+
+  <!--=============== SCROLLREVEAL ===============-->
+  <script src="scrollreveal.min.js"></script>
+
+  <!--=============== MAIN JS ===============-->
+  <script src="main.js"></script>

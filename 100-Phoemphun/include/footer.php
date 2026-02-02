@@ -14,6 +14,15 @@
 
 
     <div class="div-footer">
-        <h1 class="">Arai</h1>
+        <h1 class="">AU TO</h1>
     </div>
 </footer>
+
+
+
+
+  <!--=============== SCROLLREVEAL ===============-->
+  <script src="scrollreveal.min.js"></script>
+
+  <!--=============== MAIN JS ===============-->
+  <script src="main.js"></script>
