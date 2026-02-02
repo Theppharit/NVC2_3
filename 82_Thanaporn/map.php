@@ -20,16 +20,9 @@
 
     </main>
 
-    <!-- ส่วนของ footer -->
-    <footer class="footer">
-
-
-
-    </footer>
-
 <?php include('include/navbar.php') ?>
 
 </body>
 
 
-
+</html>

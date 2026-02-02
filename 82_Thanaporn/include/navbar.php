@@ -7,11 +7,12 @@
 </div>
 
 <div class="div-navder">
-<a href="test.php" class="a-navber">หน้า test</a>
-<a href="youtube.php" class="a-navber">หน้า youtube</a>
-<a href="map.php" class="a-navber">หน้า map</a>
+        <a href="test.php" class="a-navber">หน้า test</a>
+        <a href="youtube.php" class="a-navber">หน้า youtube</a>
+        <a href="map.php" class="a-navber">หน้า map</a>
+   </div>
 
-</div>
-</Nav>
+
+</nav>
 
 
