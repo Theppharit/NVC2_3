@@ -23,12 +23,7 @@
 </div>
 </main>
 
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-<?php include('include/footer.php')?>
-
-</footer>
+<?php include('include/footer.php') ?>
 
 </body>
 

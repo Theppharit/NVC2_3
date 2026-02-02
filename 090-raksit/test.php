@@ -1,7 +1,6 @@
 <?php include('include/head.php')?>
 
 
-
 <body>
 
 
@@ -10,12 +9,15 @@
 
 
 <div class="div">
-    <h1 class="h1">K time wa</h1>
+    <h1 class="h1">K wa</h1>
 </div>
+
+
+
 
 <main class="test"></main>
 
-<h2 class="h2">waaaaaaaaaaa</h2>
+<h2 class="h2">wawa</h2>
 
 <img src="./img/1.jpg" alt="" class="img-test">
 
@@ -37,7 +39,7 @@ Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati qu
 Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.
 </p>
 
-<?php include('include/footer.php') ?>
+<?php include('include/footer.php')?>
 
 </body>
 
