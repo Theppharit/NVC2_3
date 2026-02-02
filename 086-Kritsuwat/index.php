@@ -17,7 +17,6 @@
 </main>
 
 
-
 <?php include('include/footer.php')?>
 
 </footer>
@@ -26,3 +25,4 @@
 
 
 
+</html>
