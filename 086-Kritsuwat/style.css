@@ -62,6 +62,8 @@ img {
 .img-test {
     width: 700px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .iframe {

@@ -18,28 +18,7 @@
 </div>
 </main>
 
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-
-
-</footer>
-
-</body>
-
-
-
-</html>
-</div>
-</main>
-
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-<?php include('include/footer.php')?>
-
-</footer>
-
+<?php include('include/footer.php') ?>
 
 </body>
 
