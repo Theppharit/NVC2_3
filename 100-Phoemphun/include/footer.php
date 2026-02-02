@@ -14,6 +14,6 @@
 
 
     <div class="div-footer">
-        <h1 class="">Arai</h1>
+        <h1 class="">Araiwaa hooo</h1>
     </div>
 </footer>
