@@ -10,10 +10,11 @@
     <h1 class="h1">Hello.</h1>
 </div>
 
+<main class="test">
 
 <h2 class="h2">one</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur fugit accusamus, repudiandae magnam fugiat iusto aliquid doloribus eaque. Reprehenderit ea sequi molestias temporibus ducimus rem maxime dolorum consequatur, eum nisi.
 Optio, in odio unde quia laboriosam molestiae similique dolorem. Quos modi, dignissimos, molestias illo nesciunt adipisci consectetur a neque quasi, repudiandae veritatis doloribus reprehenderit aperiam atque mollitia dolore perspiciatis itaque!
@@ -33,6 +34,6 @@ Explicabo sapiente tenetur animi aliquam quod dolor, aliquid excepturi in possim
 
 </body>
 
-
+</main>
 
 </html>
