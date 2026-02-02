@@ -1,4 +1,4 @@
-<!-- ส่วนของ Footer -->
+<!-- ส่วนของ footer -->
 <footer class="footer">
 
     <div class="colum-footer">
@@ -14,11 +14,12 @@
 
 
     <div class="div-footer">
-        <h1 class="">Arai</h1>
+        <h1 class="">nueng</h1>
     </div>
 </footer>
+
  <!--=============== SCROLLREVEAL ===============-->
   <script src="scrollreveal.min.js"></script>
-
+  
   <!--=============== MAIN JS ===============-->
   <script src="main.js"></script>

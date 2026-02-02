@@ -15,7 +15,7 @@
 
 
 
-<main class="test"></main>
+<main class="test">
 
 <h2 class="h2">wawa</h2>
 
@@ -38,6 +38,8 @@ Accusantium illo ad neque iste odio nobis assumenda ea praesentium maxime volupt
 Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati quasi, sunt debitis. Officiis dolor, voluptas odio officia, dolores, eos incidunt nam provident itaque unde laudantium quibusdam vitae harum.
 Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.
 </p>
+
+</main>
 
 <?php include('include/footer.php')?>
 
