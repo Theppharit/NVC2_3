@@ -39,6 +39,22 @@ img {
     margin: 0 1rem;
 }
 
+.test {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5rem;
+    gap: 3rem;
+}
+
+.img-test {
+    width: 700px;
+    height: auto;
+}
+
+
 .a-navbar:hover {
     color: antiquewhite;
 }
@@ -58,4 +74,29 @@ img {
     justify-content: center;
     align-items: center;
     margin-top: 50px; 
+}
+.footer {
+    margin-top: 3rem;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.colum-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    border: #eba816 2px solid;
+}
+
+.div-footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: greenyellow;
 }

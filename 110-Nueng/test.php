@@ -10,10 +10,11 @@
     <h1 class="h1">Hello.</h1>
 </div>
 
+<main class="test">
 
 <h2 class="h2">one</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur fugit accusamus, repudiandae magnam fugiat iusto aliquid doloribus eaque. Reprehenderit ea sequi molestias temporibus ducimus rem maxime dolorum consequatur, eum nisi.
 Optio, in odio unde quia laboriosam molestiae similique dolorem. Quos modi, dignissimos, molestias illo nesciunt adipisci consectetur a neque quasi, repudiandae veritatis doloribus reprehenderit aperiam atque mollitia dolore perspiciatis itaque!
@@ -30,9 +31,12 @@ Quidem adipisci magni quos commodi facilis necessitatibus sunt quod? Dolorem odi
 Veritatis possimus laboriosam corporis rem recusandae fuga cum amet harum nulla hic aperiam, laudantium ipsa labore quia architecto. Voluptates pariatur nobis unde eligendi ratione possimus. Dolor minus consequatur debitis laudantium!
 Rerum, amet quia alias reprehenderit officiis ab facere enim magni nulla exercitationem unde rem. Illo dignissimos asperiores earum ducimus fugit sint voluptates iure eveniet vero qui explicabo, officia nemo consectetur.
 Explicabo sapiente tenetur animi aliquam quod dolor, aliquid excepturi in possimus sint expedita tempora doloribus blanditiis nemo, itaque quam harum qui? Molestias culpa necessitatibus cupiditate maiores perspiciatis provident, dolor assumenda.</p>
+</p>
+
+</main>
+
+<?php include('include/footer.php') ?>
 
 </body>
-
-
 
 </html>

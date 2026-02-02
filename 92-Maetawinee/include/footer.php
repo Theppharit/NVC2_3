@@ -2,29 +2,24 @@
 <footer class="footer">
 
     <div class="colum-footer">
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
+        <p class="">การประชุมคณะกรรมการดำเนินงาน การประเมินคุณธรรมเเละความการโปร่งใสการดำเนินงาน สำหรับสถานศึกษาอาชีวศึกษา (Integrity and Transparency Assessment : ITA)
     </div>
-   
+      <div class="colum-footer">
+        <p class="">โครงการส่งเสริมคุณธรรม จริยธรรม และจรรยาบรรณวิชาชีพ โดยร่วมปฏิบัติตนเป็นจิตอาสาทำความสะอาดวัด รวมทั้งบริการประชาชนที่มาปฏิบัติธรรมในงานทำบุญกฐินสามัคคี วัดป่าทรัพย์ทวีธรรมาราม พร้อมทั้งได้จัดตั้งโรงทานผัดหมี่โคราช โดยครัวอาชีวะโคราช</p>
+    </div>
+
     <div class="colum-footer">
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-    </div>
-    
-    <div class="colum-footer">
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
-        <p class="">Hello</p>
+        <p class="">การประชุมขับเคลื่อนโครงการฝึกปฏิบัติงานทางเทคนิค สำหรับผู้ฝึกปฏิบัติงานทางเทคนิคไทยในประเทศญี่ปุ่น โดยผ่านองค์กร IM JAPAN จังหวัดนครราชสีมา</p>
     </div>
 
-<div class="div-footer">
-    <h1 class="">Hello</h1>
-</div>
 
-
+    <div class="div-footer">
+        <h1 class="">Grace</h1>
+    </div>
 </footer>
+
+ <!--=============== SCROLLREVEAL ===============-->
+  <script src="scrollreveal.min.js"></script>
+  
+  <!--=============== MAIN JS ===============-->
+  <script src="main.js"></script>

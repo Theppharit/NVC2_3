@@ -1,6 +1,5 @@
 <?php include('include/head.php') ?>
 
-<link rel="stylesheet" href="style.css">
 
 <body>
 
@@ -11,10 +10,10 @@
      <h1 class="h1">Noey</h1>
 </div>
 
-
+<main class="test">
 <h2 class="h2">Thanaporn</h2>
 
-<img src="./img/1.jpg" alt="" class="">
+<img src="./img/1.jpg" alt="" class="img-test">
 
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae similique fugit ea deserunt ab nihil, quos iusto veniam a culpa iure sed! Est fuga placeat ut? Nostrum ut velit sit!
 Ab soluta similique consectetur reprehenderit ipsum eaque illum odio tenetur, eligendi libero asperiores magnam voluptatibus ex officiis voluptas. Molestias assumenda illum consectetur necessitatibus quam eos, magni fugiat obcaecati aspernatur earum?
@@ -33,8 +32,10 @@ Consequuntur cupiditate repellat culpa ipsum ex vitae. Consequatur at temporibus
 Nostrum est eius deserunt dolorum adipisci cupiditate nemo distinctio eaque, amet ratione hic in temporibus exercitationem saepe quidem, quia nihil commodi veritatis molestias ducimus quam officiis nisi. Quaerat, nisi recusandae?</p>
 </p>
 
-</html>
+</main>
 
 <?php include('include/navbar.php') ?>
 
 <body>
+
+</html>

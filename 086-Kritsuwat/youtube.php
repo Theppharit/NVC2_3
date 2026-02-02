@@ -14,32 +14,11 @@
 </div>
 
 <div class="iframe">
-<iframe  width="560" height="315" src="https://www.youtube.com/embed/JxjI6Gw8w78?si=klye1TAksIDwiI9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbPg29pHIws?si=pUTLLoXea6D_vpzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </main>
 
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-
-
-</footer>
-
-</body>
-
-
-
-</html>
-</div>
-</main>
-
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-<?php include('include/footer.php')?>
-
-</footer>
-
+<?php include('include/footer.php') ?>
 
 </body>
 

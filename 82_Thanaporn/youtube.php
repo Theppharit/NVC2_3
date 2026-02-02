@@ -19,15 +19,10 @@
 
 </main>
 
-<!-- ส่วนของ footer -->
-<footer class="footer">
-
-
-</footer>
 
 <?php include('include/head.php') ?>
 
 </body>
 
 
-
+</html>
