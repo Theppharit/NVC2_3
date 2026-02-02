@@ -13,6 +13,6 @@
 
 </main>
 
-
+<?php include('include/footer.php') ?>
 
 </html>

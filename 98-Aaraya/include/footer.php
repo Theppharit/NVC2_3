@@ -14,12 +14,12 @@
 
 
     <div class="div-footer">
-        <h1 class="">Grace</h1>
+        <h1 class="">dream</h1>
     </div>
 </footer>
 
  <!--=============== SCROLLREVEAL ===============-->
-  <script src="assets/js/scrollreveal.min.js"></script>
+  <script src="scrollreveal.min.js"></script>
   
   <!--=============== MAIN JS ===============-->
-  <script src="assets/js/main.js"></script>
+  <script src="main.js"></script>
