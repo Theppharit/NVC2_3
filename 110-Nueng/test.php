@@ -31,9 +31,12 @@ Quidem adipisci magni quos commodi facilis necessitatibus sunt quod? Dolorem odi
 Veritatis possimus laboriosam corporis rem recusandae fuga cum amet harum nulla hic aperiam, laudantium ipsa labore quia architecto. Voluptates pariatur nobis unde eligendi ratione possimus. Dolor minus consequatur debitis laudantium!
 Rerum, amet quia alias reprehenderit officiis ab facere enim magni nulla exercitationem unde rem. Illo dignissimos asperiores earum ducimus fugit sint voluptates iure eveniet vero qui explicabo, officia nemo consectetur.
 Explicabo sapiente tenetur animi aliquam quod dolor, aliquid excepturi in possimus sint expedita tempora doloribus blanditiis nemo, itaque quam harum qui? Molestias culpa necessitatibus cupiditate maiores perspiciatis provident, dolor assumenda.</p>
-
-</body>
+</p>
 
 </main>
+
+<?php include('include/footer.php') ?>
+
+</body>
 
 </html>

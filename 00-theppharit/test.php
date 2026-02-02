@@ -1,7 +1,5 @@
 <?php include('include/head.php') ?>
 
-
-
 <body>
 
 
